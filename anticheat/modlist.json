@@ -1,6 +1,13 @@
 {
     "mods": [
         {
+            "filename": "neoforge-21.1.194.jar",
+            "hash": "abf807535471555dc730f461cf976d049b78ac4621f07d48776363c97ec7f33e",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
             "filename": "[C]reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
             "hash": "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf",
             "optional": false,
