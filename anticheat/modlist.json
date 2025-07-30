@@ -27,6 +27,13 @@
             "optional": false,
             "admin_only": false,
             "folder": ""
+        },
+        {
+            "filename": "[C]sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+            "hash": "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
         }
     ],
     "devs": [

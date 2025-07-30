@@ -21,7 +21,9 @@ def is_admin_only(filename):
 
 def scan_mods_folder():
     """Scannt den mods Ordner rekursiv und erstellt Mod-Einträge"""
-    mods_folder = "./mods"
+    # Pfad relativ zum Script-Standort
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    mods_folder = os.path.join(script_dir, "mods")
     mod_entries = []
     
     if not os.path.exists(mods_folder):
@@ -70,7 +72,9 @@ def scan_mods_folder():
 
 def update_modlist():
     """Aktualisiert die modlist.json mit den gescannten Mods"""
-    modlist_file = "modlist.json"
+    # Pfad relativ zum Script-Standort
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    modlist_file = os.path.join(script_dir, "modlist.json")
     
     # Bestehende modlist.json laden
     try:
