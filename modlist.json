@@ -1,0 +1,36 @@
+{
+    "mods": [
+        {
+            "filename": "[C]reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+            "hash": "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[C]sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+            "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[C]sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[C]sodiumextras-neoforge-1.0.8-1.21.1.jar",
+            "hash": "2f9d6ab7f3d968b985f30c083b136466b84d54f4cc9d5f05394c39615aae2f8f",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        }
+    ],
+    "devs": [
+        "GamesLuk",
+        "ShxdowStriker"
+    ]
+}
