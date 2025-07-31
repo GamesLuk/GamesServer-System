@@ -50,13 +50,6 @@
             "folder": ""
         },
         {
-            "filename": "[C]collective-1.21.1-8.3.jar",
-            "hash": "611e6a1cb42cfd69097041b46c2febccf027182c0d792559e5ba4cb353ae1318",
-            "optional": false,
-            "admin_only": false,
-            "folder": ""
-        },
-        {
             "filename": "[C]configured-neoforge-1.21.1-2.6.0.jar",
             "hash": "a1c0acbb788fb2ffef113d2f065eea06c7eefc7626330fe2835e6afae0303535",
             "optional": false,
@@ -337,6 +330,13 @@
             "folder": ""
         },
         {
+            "filename": "[S][C]ApothicSpawners-1.21.1-1.3.2.jar",
+            "hash": "8b7d77c260fa65cdcc2f430cddacdbd64cf93de8785f203b1b5346cb205324b3",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
             "filename": "[S][C]Aquaculture-1.21.1-2.7.14.jar",
             "hash": "c468c1a30f6a7a647b3db6d8915c5e246d9bc2460e735d62522f0476c14317dd",
             "optional": false,
@@ -449,6 +449,13 @@
             "folder": ""
         },
         {
+            "filename": "[S][C]collective-1.21.1-8.3.jar",
+            "hash": "611e6a1cb42cfd69097041b46c2febccf027182c0d792559e5ba4cb353ae1318",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
             "filename": "[S][C]connector-2.0.0-beta.8+1.21.1-full.jar",
             "hash": "820b5caeeca1168c58081c7b5ff93801df8a08361e53f8ac833b96411b619ac4",
             "optional": false,
@@ -472,6 +479,13 @@
         {
             "filename": "[S][C]countereds_terrain_slabs-2.0.2.jar",
             "hash": "c31fd81647a26caa4a7a1dbc099d6f22505615ba9826b5bde73dc05e80e461d6",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]CraftTweaker-neoforge-1.21.1-21.0.27.jar",
+            "hash": "f24f5e2cb682c309fd0922afd6998e26f9b52e24e3e28fc9fdd22c7cf05e45ca",
             "optional": false,
             "admin_only": false,
             "folder": ""
@@ -654,6 +668,13 @@
         {
             "filename": "[S][C]endersdelight-neoforge-1.21.1-1.1.0.jar",
             "hash": "0a4167429acf3740e48a699f186bdcad808c0081a8157b466fffa10716d1b50c",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]EW-NeoForge-1.21.1-1.0.0.jar",
+            "hash": "fca02c0a53f761867c8ec4f9d45f2eaf535c795017e8249ed5ed4e915cc12d62",
             "optional": false,
             "admin_only": false,
             "folder": ""
@@ -890,6 +911,13 @@
             "folder": ""
         },
         {
+            "filename": "[S][C]modonomicon-1.21.1-neoforge-1.114.5.jar",
+            "hash": "a8b4678361eccb35f07b05b6ae20b62f8117136c543a2fca76526e4988343a3a",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
             "filename": "[S][C]moonlight-1.21-2.20.3-neoforge.jar",
             "hash": "6e3b742662c9bbb54e4c4bc91f50f745582ae5ffa5ef50d28fdac8d8c967283f",
             "optional": false,
@@ -955,6 +983,13 @@
         {
             "filename": "[S][C]OctoLib-NEOFORGE-0.5.0.1.jar",
             "hash": "811aa793b346e9ddc01c91ce992e353f34b9054b0295d8c818a6ba23a19ba312",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+            "hash": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
             "optional": false,
             "admin_only": false,
             "folder": ""
@@ -1044,6 +1079,20 @@
             "folder": ""
         },
         {
+            "filename": "[S][C]resourcefulconfig-neoforge-1.21-3.0.11.jar",
+            "hash": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]resourcefullib-neoforge-1.21-3.0.12.jar",
+            "hash": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
             "filename": "[S][C]simplehats-neoforge-1.21.1-0.4.0.jar",
             "hash": "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864",
             "optional": false,
@@ -1053,6 +1102,20 @@
         {
             "filename": "[S][C]sliceanddice-neoforge-4.0.1.jar",
             "hash": "391ee0b76c6d8302bda3549d7b064c34d18c274efed94a4e485a4f86778eb04f",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]SmartBrainLib-neoforge-1.21.1-1.16.10.jar",
+            "hash": "67ecec32de608e59ff142b1b217d3d710cd9b3cebb5b986111f7dd4098025a4e",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]SOB-NeoForge-1.21.1-1.0.0.jar",
+            "hash": "1661023822d0e1651480e0b26bbb037a3013e5d2d3134b4d0f88141a32a72e30",
             "optional": false,
             "admin_only": false,
             "folder": ""
@@ -1079,8 +1142,29 @@
             "folder": ""
         },
         {
+            "filename": "[S][C]supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+            "hash": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+            "hash": "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
             "filename": "[S][C]supplementaries-1.21-3.3.5-neoforge.jar",
             "hash": "a040b325871260012f16186a3b2048dc269c93bfb2d13b30658b9b50113cf065",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]tenshilib-1.21.1-2.1.0-neoforge.jar",
+            "hash": "9d5d6cbc3275b99b80139a701a43721ebcaf0ba8d1fd462f1219a8a3ff9108f1",
             "optional": false,
             "admin_only": false,
             "folder": ""
@@ -1107,6 +1191,13 @@
             "folder": ""
         },
         {
+            "filename": "[S][C]titanium-1.21-4.0.37.jar",
+            "hash": "59c5d4eaa811af3b0b36dba15608a7f68c39d3da99e74275aa3d7543551d0e11",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
             "filename": "[S][C]trimeffects-neoforge-mc1.21-2.1.1.jar",
             "hash": "54b2263dc92c2445589aa83f17392de48af97cc97cc1aa0d731a812378f1582a",
             "optional": false,
@@ -1123,6 +1214,13 @@
         {
             "filename": "[S][C]txnilib-neoforge-1.0.24-1.21.1.jar",
             "hash": "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
+            "filename": "[S][C]valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+            "hash": "8364c248ea4b8975327bc6cc36478ecdc1567110a6c8a47ce6b43e648edd1127",
             "optional": false,
             "admin_only": false,
             "folder": ""
