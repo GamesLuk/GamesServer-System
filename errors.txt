@@ -40,20 +40,8 @@ neoforge-21.1.194-universal.jar][0m
 
 
 
-[31Juli2025 15:56:33.902] [modloading-worker-0/INFO] [de.gamesserver.mod.GamesServerMod/]: [36m[ANTICHEAT] [0m[32m[INFO] Fehlende erforderliche Mods: 
-[neoforge-21.1.194.jar, 
-[C]continuity-3.0.0+1.21.neoforge.jar, 
-[C]gamesservermod-0.1.2.jar, 
-[S][C]bclib-21.0.13.jar, 
-[S][C]BOMD-1.10.2-1.21.1.jar, 
-[S][C]cardinal-components-api-6.1.2.jar, 
-[S][C]connector-2.0.0-beta.8+1.21.1-full.jar, 
-[S][C]countereds_terrain_slabs-2.0.2.jar, 
-[S][C]fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar, 
+[31Juli2025 15:56:33.902] [modloading-worker-0/INFO] [de.gamesserver.mod.GamesServerMod/]: [36m[ANTICHEAT] [0m[32m[INFO] Fehlende erforderliche Mods:  
 [S][C]kotlinforforge-5.9.0-all.jar, 
-[S][C]worldweaver-21.0.13.jar, 
-[S][C]wunderlib-21.0.8.jar][0m
-
 
 [31Juli2025 17:18:39.573] [modloading-worker-0/INFO] [de.gamesserver.mod.GamesServerMod/]: [36m[ANTICHEAT] [0m[32m[INFO] Verbotene Filename-Mods: 
 
@@ -93,3 +81,10 @@ neoforge-21.1.194-universal.jar][0m
 [S][C]wunderlib-21.0.8_mapped_moj_1.21.1.jar, 
 client-1.21.1-20240808.144430-srg.jar, 
 neoforge-21.1.194-universal.jar][0m
+
+
+
+
+
+[31Juli2025 17:47:11.564] [modloading-worker-0/INFO] [de.gamesserver.mod.GamesServerMod/]: [36m[ANTICHEAT] [0m[32m[INFO] Verbotene Filename-Mods: [
+    
