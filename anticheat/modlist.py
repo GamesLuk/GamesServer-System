@@ -19,6 +19,10 @@ def is_admin_only(filename):
     """Prüft ob die Datei nur für Admins ist (enthält [A])"""
     return "[A]" in filename
 
+def is_fabric(filename):
+    """Prüft ob die Datei für Fabric ist (enthält [F])"""
+    return "[F]" in filename
+
 def scan_mods_folder():
     """Scannt den mods Ordner rekursiv und erstellt Mod-Einträge"""
     # Pfad relativ zum Script-Standort
@@ -56,6 +60,7 @@ def scan_mods_folder():
                     "hash": file_hash,
                     "optional": is_optional(filename),
                     "admin_only": is_admin_only(filename),
+                    "fabric": is_fabric(filename),
                     "folder": folder_path
                 }
                 

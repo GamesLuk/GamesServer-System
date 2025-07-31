@@ -5,6 +5,7 @@
             "hash": "abf807535471555dc730f461cf976d049b78ac4621f07d48776363c97ec7f33e",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -12,6 +13,7 @@
             "hash": "5e26339287e4cd21e1be00d52088e3b5f0cab176eac967acd7404115c6ecd22f",
             "optional": false,
             "admin_only": true,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -19,6 +21,7 @@
             "hash": "67a47d02f7f7c8b291e920416eb96242bd48f0cbc50f947adb439c4212ea39f9",
             "optional": false,
             "admin_only": true,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -26,6 +29,7 @@
             "hash": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
             "optional": false,
             "admin_only": true,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -33,6 +37,7 @@
             "hash": "535183889950e36485003418ffb30fd529a64f87d893c3b2ff291cfaa7d03ef3",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -40,6 +45,7 @@
             "hash": "d770fe018984269bd8ffd88562ed812c196df6048ebde44df197dfb3aa01e4a3",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -47,6 +53,7 @@
             "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -54,6 +61,7 @@
             "hash": "a1c0acbb788fb2ffef113d2f065eea06c7eefc7626330fe2835e6afae0303535",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -61,6 +69,7 @@
             "hash": "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -68,6 +77,7 @@
             "hash": "c19071cbbc141f8c2560354781f3c00213fdebc48317aab7e2d32ee8311b910e",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -75,6 +85,7 @@
             "hash": "be55b229b29ee9b572eb058daca605b1bb7efd2dcf421eab65758858826dc5ef",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -82,6 +93,7 @@
             "hash": "b73a6a7ab30ff67662de89daa5bdd2b1a4824eab8d184a33f8557188bfd7bda4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -89,6 +101,7 @@
             "hash": "be7144647bc160858e659f6793fcce993914443b9256c2df0369b1c616a2a5d4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -96,6 +109,7 @@
             "hash": "dae59dceb749957fcd9cb589e0cab5ef60f2e6422002dd490ba3111b6eb4eaff",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -103,6 +117,7 @@
             "hash": "cea07c73c3da2a4396dc4e6af8fdb5f460d7a0c32b2ce6b645d6279ee9b5e2f2",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -110,6 +125,7 @@
             "hash": "412309ebb3a141c3242da6bc6e7ee2e7c2f13023238d6f400d9d2ef9bf0b693d",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -117,6 +133,7 @@
             "hash": "2877b19bc2eedfd961bb47a0e68e7d992183ea360100cdfe8ca352dd4d93c9ed",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -124,6 +141,7 @@
             "hash": "9c1232dba1ae530724b22e8b6d632a45684f25a59dbce3bdf3ca226d6217f03d",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -131,6 +149,7 @@
             "hash": "f3afa8a76ae8f320610d6e50970881722a758c1c23ded4831293d1c81adbce21",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -138,6 +157,7 @@
             "hash": "725d47394851b7a54e63929e5b9152e04ef76e78edaa78d8283781216519a2f5",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -145,13 +165,15 @@
             "hash": "4d0f489cea17e4175855b7aa2374f7be9415842fe9fe869700b7c851c9f003e1",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
-            "filename": "[C]gamesservermod-0.1.3.jar",
-            "hash": "f933871822ec80c5f06a2dd824600efc4dfd65c312a0796570d3a9e08f9d10a7",
+            "filename": "[C]gamesservermod-0.1.4.jar",
+            "hash": "dde1ac4338d3bf06ff78129a87262ca336f2ece51c37630b7bd92060f2a8fe35",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -159,6 +181,7 @@
             "hash": "1266c606b5ab0135040b9fd8495a2c7398e4dcbf63c40d7836bde5768ceb2544",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -166,6 +189,7 @@
             "hash": "13a7f044f39107231ff0537ba5d803e808bc80227958a18a50dd7f224b7d451b",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -173,6 +197,7 @@
             "hash": "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -180,6 +205,7 @@
             "hash": "15a8b462016414e0ed1650e7a6ed21997e32b07e1aa824f07a4a9073fd2b9302",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -187,6 +213,7 @@
             "hash": "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -194,6 +221,7 @@
             "hash": "b5954b1911c49f9fc0288532a9c490a1bba46276054e972df9369963b17acc2b",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -201,6 +229,7 @@
             "hash": "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -208,6 +237,7 @@
             "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -215,6 +245,7 @@
             "hash": "2f9d6ab7f3d968b985f30c083b136466b84d54f4cc9d5f05394c39615aae2f8f",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -222,6 +253,7 @@
             "hash": "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -229,6 +261,7 @@
             "hash": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -236,6 +269,7 @@
             "hash": "673fecbffad26bb6d025fb5f60560cf6340e542bdf091d8d66074490515292f3",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -243,6 +277,7 @@
             "hash": "f9198272b9e889b551dfb969483fc15b9e78d2f56a074c053255ff7c0af506e4",
             "optional": true,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -250,6 +285,7 @@
             "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
             "optional": true,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -257,6 +293,7 @@
             "hash": "244822cab2c08e169f521b87a6267383e8cc03cf0af152bb6b62331828662098",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -264,6 +301,7 @@
             "hash": "055e4ca4474ed4730b5f0d1d30f0fa052655bc70e7a3e9a9af08c24a5bc7107a",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -271,6 +309,7 @@
             "hash": "fefba0813a087e7b57424020cb060eac362b49db2f939c6e34fe2e81708507a9",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -278,6 +317,7 @@
             "hash": "680322d052d5645a1059131806a96cc2521ae318c86618c2a644dea5263d8ce8",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -285,6 +325,7 @@
             "hash": "42849d2b3747bb157089d2f3c4b3b6ee63f8bfec509e56377ca3dd525a3b74f5",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -292,6 +333,7 @@
             "hash": "7d92af35f1f249d8d328d28a578b44f7f58882d41b23a1f5aae1e7914eaf9289",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -299,6 +341,7 @@
             "hash": "9cee8e907136977b57e016a776b8a2ba5891275ef23b1520ce49e30e06fdb3db",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -306,6 +349,7 @@
             "hash": "9baa403224a3b58b63f14020242eb73ef1bebc07402b37dd0f071de95a8a4db7",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -313,6 +357,7 @@
             "hash": "6a96720e778e6eb35f324958b42183d8985acae322fafe23ee627271b11d219e",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -320,6 +365,7 @@
             "hash": "132a0d85d138655e0b737085d750968e8787ad5d32c9f554e59b14570973f354",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -327,6 +373,7 @@
             "hash": "d2c5dac59f6598d83daf237229f9909cca3d7d10ba7969bdfcfe1a43c7b18140",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -334,6 +381,7 @@
             "hash": "8b7d77c260fa65cdcc2f430cddacdbd64cf93de8785f203b1b5346cb205324b3",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -341,6 +389,7 @@
             "hash": "c468c1a30f6a7a647b3db6d8915c5e246d9bc2460e735d62522f0476c14317dd",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -348,6 +397,7 @@
             "hash": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -355,6 +405,7 @@
             "hash": "e689c8e6a3c7dbe01dc5fcc1ce43ba8e668b6034ff4aa03d44ab603025617176",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -362,6 +413,7 @@
             "hash": "b9729ac8e88703808768bb87c6c8714d07986a8758f477742f76f6cc839f6970",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -369,6 +421,7 @@
             "hash": "a0724f0b93f4d9939fa358a34816ea4044f7e186ee92073794912c661411a12b",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -376,6 +429,7 @@
             "hash": "d689420a0fe2f08666858cd33bdc8714c00f541bfe4da8acb2cb02f953c58e34",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -383,6 +437,7 @@
             "hash": "957d6a52e761cb586375604be66b5e57b21a9f2a026054c79169a6f3e5f591c4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -390,6 +445,7 @@
             "hash": "9a283538891bf886de3c9c539e79e1f25568606c2c13fbe646a43aa628ff42d2",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -397,6 +453,7 @@
             "hash": "e3dd5af8104e3db7b824f1e1cba0e8f1bd23a337c7c25b8b1d9fc2b67175a254",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -404,6 +461,7 @@
             "hash": "c1507799e31b55264197431f1b6139650303b430093c89bb0a2d9901740b5a7c",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -411,6 +469,7 @@
             "hash": "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -418,6 +477,7 @@
             "hash": "dd6095202a6bffb0c189db35350388c875608aa2cb55e15f8fa23cb933dea323",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -425,6 +485,7 @@
             "hash": "0bacd6867ef89c92307dd811ec6a5584e987ef367ab90a89c9ca2f6901fe5e97",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -432,6 +493,7 @@
             "hash": "92b333d722aed926eeeb2949e05387d018043caaf62422e010eb30d90b5ea974",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -439,6 +501,7 @@
             "hash": "67d5eb97b204e3c92f15fb64c32d278a4bf10f1814437bf53ccfa1c6c32e03df",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -446,6 +509,7 @@
             "hash": "10d8c5167cf1c794cda74c5a49279bb087db04749f83651062d594d2a242daa2",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -453,6 +517,7 @@
             "hash": "611e6a1cb42cfd69097041b46c2febccf027182c0d792559e5ba4cb353ae1318",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -460,6 +525,7 @@
             "hash": "820b5caeeca1168c58081c7b5ff93801df8a08361e53f8ac833b96411b619ac4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -467,6 +533,7 @@
             "hash": "ee89c3425b9a4bff766aaff02ccf8110c06f5da6ef5d71974556885cf25d4880",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -474,6 +541,7 @@
             "hash": "8caf0e53cf250e1cc2811d49e9ea46f3c691f65c3522b55c19e24a411d1354ef",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -481,6 +549,7 @@
             "hash": "c31fd81647a26caa4a7a1dbc099d6f22505615ba9826b5bde73dc05e80e461d6",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -488,6 +557,7 @@
             "hash": "f24f5e2cb682c309fd0922afd6998e26f9b52e24e3e28fc9fdd22c7cf05e45ca",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -495,6 +565,7 @@
             "hash": "221e10e88391da5e942650ca5f72266871d20f360e51fd3778193e5b81fd44e5",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -502,6 +573,7 @@
             "hash": "2d403500cd550db452a975ec3d4ba21b6097360d4dd575311112fe322055b1ee",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -509,6 +581,7 @@
             "hash": "043fbbf76bdbcf128d50ca09bbc8e2e06431a23e86f4711d08dce2b7818c0b8a",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -516,6 +589,7 @@
             "hash": "dcd92279050d001bfe34d8d748752ccb9a3528bb1541ebf8c53bccc27b787ca9",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -523,6 +597,7 @@
             "hash": "fb5d8f0f88af98b5901ccd9d0f3ad1231f0796366d48ddfe5d537df6257736bd",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -530,6 +605,7 @@
             "hash": "5ca49762b2acfb59d640c33e28bf20d2ddee04e632c2b032817a23a211ad2f15",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -537,6 +613,7 @@
             "hash": "035a66c0913d31fff7c0170f19eefcd3ad2b9f9ec012e0b3ca883e9f21a089ed",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -544,6 +621,7 @@
             "hash": "50269db454494535258c1b44af201a5e69c44a0c04907a4c071f06f80bd87424",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -551,6 +629,7 @@
             "hash": "ccd44b069962890352dfee442508880a37eecd3c5625d74d668dd6eb7d39ee3d",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -558,6 +637,7 @@
             "hash": "0f25a0eaf455219a5bbcf959083d6b48115f734aa39114479c0df83e1aac30ca",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -565,6 +645,7 @@
             "hash": "77fc42a4084cae2d5ba950d45f9805de2bc3ceeff9776679fa61813e48121ab3",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -572,6 +653,7 @@
             "hash": "50ad707b5eaa6d0ce10c7b9b07bb7ddf95fba0b9c5f42ba9e933f6ad3b45dd90",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -579,6 +661,7 @@
             "hash": "bbe43eac6a112f6fd6e10e2abd25941c6943831114b089f9ade9d8155f7a6fa8",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -586,6 +669,7 @@
             "hash": "8c0c86a75aa082fd603eb61dfdc72d028b01b1a7bdad377ed2de64ace95b5622",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -593,6 +677,7 @@
             "hash": "3e3c1c13c48e66cdff3e7bf1830071ed022e06213b8e33771765722908556e06",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -600,6 +685,7 @@
             "hash": "cc05df977a46a0350e8af479695272691b0fa0bcbc1b054de0936152f2bdfd72",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -607,6 +693,7 @@
             "hash": "81dd0e5350b6e6a76aa64d224161e0e45e3bed7b443e1a27e1a438323a0cc2f5",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -614,6 +701,7 @@
             "hash": "db539edd42c0ff9979240a5ecef33756742a2ae35959f1c0985f1630a66e18ba",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -621,6 +709,7 @@
             "hash": "88103cd127498bd7eb07dd9040c236681f6c470f33ef9d9b360097475498b22e",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -628,6 +717,7 @@
             "hash": "cebf5d1d1793fbfc2ee25b63d6f929910ad04ff72da5c1a6987d33961708cff1",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -635,6 +725,7 @@
             "hash": "ba9420af93581165f6f55f352e00d4d7bd7ff7639d6059d937179284c0782051",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -642,6 +733,7 @@
             "hash": "747d294aa9c0ffc39133ac390df6f47746cebe9bf8513b7a8a355b7b088fbc1c",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -649,6 +741,7 @@
             "hash": "565b8cd4bb82afa23ce823e49665188621bbdd53139ed854f4772ca18b01d7e8",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -656,6 +749,7 @@
             "hash": "1798522d3e86bc7ddc31cf7416adce73053dea4fbb0208e591bf35b98634a6d9",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -663,6 +757,7 @@
             "hash": "6c042b02da153785e0a40e4dec2b8b811ce07325bac09aee1d52a107b0763a43",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -670,6 +765,7 @@
             "hash": "0a4167429acf3740e48a699f186bdcad808c0081a8157b466fffa10716d1b50c",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -677,6 +773,7 @@
             "hash": "fca02c0a53f761867c8ec4f9d45f2eaf535c795017e8249ed5ed4e915cc12d62",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -684,6 +781,7 @@
             "hash": "2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -691,6 +789,7 @@
             "hash": "801d2ed14e0364b575573dcbff88004e043a002b1717e6207717c2b1036879d1",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -698,6 +797,7 @@
             "hash": "4a8743c5d870aa9885d65e20d728c76fec894e01e81d1b49ef0f4459a67f0eea",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -705,6 +805,7 @@
             "hash": "2b555873821cae7cc3b31cc2ac7ed08e19a96fbe333d710b71cef01a8a5fcd69",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -712,6 +813,7 @@
             "hash": "abf593ba1584c761f198989008d334c95932afe0a7c6b16af4baa16b54fd1449",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -719,6 +821,7 @@
             "hash": "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -726,6 +829,7 @@
             "hash": "16aa71548f5185b4fa8a52775f6be882665bb8ba3303911d1d09d75614e8b646",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -733,6 +837,7 @@
             "hash": "bb8fb425fdf2155efd8d74869256327a1b315603c2493b791462eaefb70b48b4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -740,6 +845,7 @@
             "hash": "85a4a885a7111467fdb7852f72340c7549da4a41aa990a827b8de679a93cce4c",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -747,6 +853,7 @@
             "hash": "9178e6613cd41efaa3b50e3d2e0b25e1efde5beb4e23aeb23f0b88d778d52fd7",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -754,6 +861,7 @@
             "hash": "7e7407e57bd5c1e8957690bbd9bced8f5106fe1df55e1e773ae1efa002f8b3a0",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -761,6 +869,7 @@
             "hash": "2aba768ed522867530be455c45c4e1d24e675cca3955595409855a4eb91c3d79",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -768,6 +877,7 @@
             "hash": "19203d3fb3bcf7cfb1e40f607388af4b3a3d24d1f03a5a773c48e6de34e9ad23",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -775,6 +885,7 @@
             "hash": "47a21a17ca6efdab9c54b60477880fe532078e6aa8e8b84e4edc8496583e2d56",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -782,6 +893,7 @@
             "hash": "ec7c18ce6a22e41dc08fcc88b9eca1d3ef5e8add3dd16b6eca1f6a235e8869ad",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -789,6 +901,7 @@
             "hash": "f96978d769d277e21c05ac6c8aa1b1a13d72ec2641df4561b5b94c03c59d1c55",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -796,6 +909,7 @@
             "hash": "c3b5a3bff6acd217983391f49b0806bdd77f6a7d42be6abe9a77566e28fe0ab7",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -803,6 +917,7 @@
             "hash": "a010b32a31f59110cc0addcbe789ce42e76131bb131ede73b0e078e736fd3c68",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -810,6 +925,7 @@
             "hash": "0776d24462b9648614d3a3a62adfcd3e8fdd297ab0f3349c14a0f1ba39cfbf55",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -817,6 +933,7 @@
             "hash": "7e56b7f00e8351bba0a513dd9bcf59d82a0ccde82f1f0fe4ce378ccaad10025f",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -824,6 +941,7 @@
             "hash": "8b671fa5486487c03d13543560a4909bc57c8933e200f62a7d79947aa48a8e41",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -831,6 +949,7 @@
             "hash": "0dbf29b3b18cfdc1bb5a23deeb2ef2e2d17064b9ad0b51ae1581d36212320b8d",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -838,6 +957,7 @@
             "hash": "8b40a3c02ccfdf525d098fc4999b87326da39eed5f7e7f8c6fcb088082ca6f8b",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -845,6 +965,7 @@
             "hash": "9a140c6a1014f1f80b887fc629a4e1ef9ff3036b07a27803dcf44d32dd543b91",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -852,6 +973,7 @@
             "hash": "d63cca96d7dca9af69ec6461b55986eba8fffc8d18dd0a8e8d9ca5536ee2cceb",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -859,6 +981,7 @@
             "hash": "881f3ffa2274477573af279090740331426645e6d7cc303b36f3bfd5942c2811",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -866,6 +989,7 @@
             "hash": "bb7c3f9f5b8649d7cfae6996afedefb60471ad438e365e97c79aa6eb8b380142",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -873,6 +997,7 @@
             "hash": "14ef86ff3c9d2d7033357d400d9284386cb3557e8ae4a09fc8ee7e613ae803c1",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -880,6 +1005,7 @@
             "hash": "25c79def993a24b05b0f8494ee9417717d469bc000d5ed7c219b47dcc3b3e9c8",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -887,6 +1013,7 @@
             "hash": "2570a3e414a231ca89eb0262d2f4eca9a05ad6a77a915b1e37d5477d743ae4a4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -894,6 +1021,7 @@
             "hash": "c8002779196018f064f600419f9a5aef5b63fbc1f4e9e2c34e4e16163dc8f541",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -901,6 +1029,7 @@
             "hash": "b923ef7c3d799d34c24542918007977988abd86dfc2ec3427befb889bbc2f149",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -908,6 +1037,7 @@
             "hash": "ce976271f334989d39b81b4c366209b62d18248a9664a65664c9645166347ca1",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -915,6 +1045,7 @@
             "hash": "0f1f987cdb9f1896217d45d91a9eaa20ee4c0054c41602624b54d81513a8cc22",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -922,6 +1053,7 @@
             "hash": "a8b4678361eccb35f07b05b6ae20b62f8117136c543a2fca76526e4988343a3a",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -929,6 +1061,7 @@
             "hash": "6e3b742662c9bbb54e4c4bc91f50f745582ae5ffa5ef50d28fdac8d8c967283f",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -936,6 +1069,7 @@
             "hash": "cd89ed7f6ed7db6c1789868a173719106495c5ccc7e15617632201847859bed2",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -943,6 +1077,7 @@
             "hash": "8a1dc1f85047388101203a2f99714ccd5a74c6be083ffce730c063dd6513cf1c",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -950,6 +1085,7 @@
             "hash": "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -957,6 +1093,7 @@
             "hash": "6e98732dd91120abea5a896b551a0d5ae577cd769472dc3017f37c89312f6e5e",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -964,6 +1101,7 @@
             "hash": "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -971,6 +1109,7 @@
             "hash": "4daa5d59d67bf41d761e83d7669e93be7e5b0c5c5f799d1e2370b59f76d220fa",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -978,6 +1117,7 @@
             "hash": "09efef70439f27a463e1e36d199e974ec42e4ee09bc83867b3979839bca133f3",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -985,6 +1125,7 @@
             "hash": "3c8369ee78abcf7c51096ba901081b40ddee715e47c312674c48b1bdb969055c",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -992,6 +1133,7 @@
             "hash": "811aa793b346e9ddc01c91ce992e353f34b9054b0295d8c818a6ba23a19ba312",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -999,6 +1141,7 @@
             "hash": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1006,6 +1149,7 @@
             "hash": "2a3ab9ca7bf725771547f5a6e073d999ac9115b34876671511dec7d45a659010",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1013,6 +1157,7 @@
             "hash": "f1ff6a72a12588102a49ed6cb11b22674925ce317cfaac879291a9ccf6bc9cdb",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1020,6 +1165,7 @@
             "hash": "8fe2610cc5ac26dc48c0eba906c5b4dc9ef930964e29a78391227110ca2d12e1",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1027,6 +1173,7 @@
             "hash": "6a18e71022eebd6410f735449854ab6fb4ffd45f8f5258ea9dfdf86d84d2ce97",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1034,6 +1181,7 @@
             "hash": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1041,6 +1189,7 @@
             "hash": "7be6db8633d27a928ab986fab52d4bb882e6b50d3087392fb6e1403d2d62edca",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1048,6 +1197,7 @@
             "hash": "ef232f203386a09dfa802b87c172d2f3c09ac750d9d63bb1c7c8a9e2f33c63c0",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1055,6 +1205,7 @@
             "hash": "7e64fa40a2c54fd139d1a02b121260cf3c543638924ac09e25dd5b795fc1ccb4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1062,6 +1213,7 @@
             "hash": "a9bb3a70c3a7356b1cde0ad598927ad22992b54b4e7b05f2cedb4f2c17cb2381",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1069,6 +1221,7 @@
             "hash": "bdaf4c3399b7436d3be7d79729d87ed707a964420dc58720e13fb2f4960c8b9e",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1076,6 +1229,7 @@
             "hash": "2eda66b4aadfd1bb4715d934bf2476d1ed87b842735e29562ba5da6e9b001c99",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1083,6 +1237,7 @@
             "hash": "e58c0192d8d688faa6cb5ce5969987e25cf1d3e8317e63cdfc764f35bc6083ec",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1090,6 +1245,7 @@
             "hash": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1097,6 +1253,7 @@
             "hash": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1104,6 +1261,7 @@
             "hash": "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1111,6 +1269,7 @@
             "hash": "391ee0b76c6d8302bda3549d7b064c34d18c274efed94a4e485a4f86778eb04f",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1118,6 +1277,7 @@
             "hash": "67ecec32de608e59ff142b1b217d3d710cd9b3cebb5b986111f7dd4098025a4e",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1125,6 +1285,7 @@
             "hash": "1661023822d0e1651480e0b26bbb037a3013e5d2d3134b4d0f88141a32a72e30",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1132,6 +1293,7 @@
             "hash": "89961de51eb443d98d3879e5f740e3855f73aaae238b9bb9e9f20c61cfe2abac",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1139,6 +1301,7 @@
             "hash": "5a0f1dc08fff5c0c589ef11f2886e99f0f1893f01ba8e709e8d3fb5847768338",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1146,6 +1309,7 @@
             "hash": "bca1b2b69e263614b6647d133f72537b877a1e40549b9aa311661fe865676cd8",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1153,6 +1317,7 @@
             "hash": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1160,6 +1325,7 @@
             "hash": "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1167,6 +1333,7 @@
             "hash": "a040b325871260012f16186a3b2048dc269c93bfb2d13b30658b9b50113cf065",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1174,6 +1341,7 @@
             "hash": "9d5d6cbc3275b99b80139a701a43721ebcaf0ba8d1fd462f1219a8a3ff9108f1",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1181,6 +1349,7 @@
             "hash": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1188,6 +1357,7 @@
             "hash": "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1195,6 +1365,7 @@
             "hash": "df9fadca06ad2e8ff4f9282e4e0861ebb7399c29994d6d5daa4439c65d535220",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1202,6 +1373,7 @@
             "hash": "59c5d4eaa811af3b0b36dba15608a7f68c39d3da99e74275aa3d7543551d0e11",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1209,6 +1381,7 @@
             "hash": "54b2263dc92c2445589aa83f17392de48af97cc97cc1aa0d731a812378f1582a",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1216,6 +1389,7 @@
             "hash": "371b5eace851f487eeb9138d9547253e048bc8c0fad7e6ce5708d26ba8d0bcb5",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1223,6 +1397,7 @@
             "hash": "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1230,6 +1405,7 @@
             "hash": "8364c248ea4b8975327bc6cc36478ecdc1567110a6c8a47ce6b43e648edd1127",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1237,6 +1413,7 @@
             "hash": "66336c04a872a319be40f03930de95a40945e679a9e51314a8379433646a9469",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1244,6 +1421,7 @@
             "hash": "2c408d36e70290b840faec12a963c4b3efb38391de3c87d73228d3ce76bf132d",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1251,6 +1429,7 @@
             "hash": "88aa8a51089bf2079fc05c7fa2b424bb54452d40bd6daa941b7e3357bd9b3781",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         },
         {
@@ -1258,6 +1437,7 @@
             "hash": "0bb2d4c07d1f3288840083ef5fd6151821c954137d32ec93f80e33ec633d083a",
             "optional": false,
             "admin_only": false,
+            "fabric": false,
             "folder": ""
         }
     ],
