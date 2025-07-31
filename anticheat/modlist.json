@@ -680,6 +680,13 @@
             "folder": ""
         },
         {
+            "filename": "[S][C]fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+            "hash": "2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b",
+            "optional": false,
+            "admin_only": false,
+            "folder": ""
+        },
+        {
             "filename": "[S][C]FarmersDelight-1.21.1-1.2.8.jar",
             "hash": "801d2ed14e0364b575573dcbff88004e043a002b1717e6207717c2b1036879d1",
             "optional": false,
