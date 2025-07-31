@@ -148,13 +148,6 @@
             "folder": ""
         },
         {
-            "filename": "[C]gamesservermod-0.1.0.jar",
-            "hash": "26507b5418edb2eb2c42eb949bb77997184ca04bde31e90306f63ab429297e58",
-            "optional": false,
-            "admin_only": false,
-            "folder": ""
-        },
-        {
             "filename": "[C]ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
             "hash": "1266c606b5ab0135040b9fd8495a2c7398e4dcbf63c40d7836bde5768ceb2544",
             "optional": false,
