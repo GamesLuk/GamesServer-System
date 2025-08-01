@@ -1,36 +1,6 @@
 {
   "mods": [
     {
-      "fileName": "Ponder-NeoForge-1.21.1-1.0.56.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]create-1.21.1-6.0.6.jar!Ponder-NeoForge-1.21.1-1.0.56.jar",
-      "fileHash": "f042aa429cbb8e8dfe206792aea4c184264eebd4ba412aa3849d20dc37b87496",
-      "parentFileName": "[S][C]create-1.21.1-6.0.6.jar",
-      "isChildMod": true,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "TRansition-1.0.3-1.21-neoforge-SNAPSHOT.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]entityculling-neoforge-1.8.2-mc1.21.jar!TRansition-1.0.3-1.21-neoforge-SNAPSHOT.jar",
-      "fileHash": "811fb08751805773c12479d69b28ba5255448e8bb53155af0ea65986e6c4aed8",
-      "parentFileName": "[C]entityculling-neoforge-1.8.2-mc1.21.jar",
-      "isChildMod": true,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "TRender-1.0.5-1.21-neoforge-SNAPSHOT.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]entityculling-neoforge-1.8.2-mc1.21.jar!TRender-1.0.5-1.21-neoforge-SNAPSHOT.jar",
-      "fileHash": "d3ed7bb43cdd9e5b0fc6a6486eceae6ac1a4a3c581cd22a612ebdb2b064b6771",
-      "parentFileName": "[C]entityculling-neoforge-1.8.2-mc1.21.jar",
-      "isChildMod": true,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
       "fileName": "[A][C]notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[A][C]notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
       "fileHash": "5e26339287e4cd21e1be00d52088e3b5f0cab176eac967acd7404115c6ecd22f",
@@ -67,33 +37,6 @@
       "isAdminMod": false
     },
     {
-      "fileName": "[C]CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
-      "fileHash": "be55b229b29ee9b572eb058daca605b1bb7efd2dcf421eab65758858826dc5ef",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[C]FpsReducer2-neoforge-1.21-2.10.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]FpsReducer2-neoforge-1.21-2.10.jar",
-      "fileHash": "f3afa8a76ae8f320610d6e50970881722a758c1c23ded4831293d1c81adbce21",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[C]ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
-      "fileHash": "1266c606b5ab0135040b9fd8495a2c7398e4dcbf63c40d7836bde5768ceb2544",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
       "fileName": "[C]chloride-NEOFORGE-mc1.21.1-v1.7.2.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]chloride-NEOFORGE-mc1.21.1-v1.7.2.jar",
       "fileHash": "d770fe018984269bd8ffd88562ed812c196df6048ebde44df197dfb3aa01e4a3",
@@ -124,6 +67,15 @@
       "fileName": "[C]createbetterfps-1.21.1-1.1.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]createbetterfps-1.21.1-1.1.1.jar",
       "fileHash": "c19071cbbc141f8c2560354781f3c00213fdebc48317aab7e2d32ee8311b910e",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[C]CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
+      "fileHash": "be55b229b29ee9b572eb058daca605b1bb7efd2dcf421eab65758858826dc5ef",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -193,6 +145,15 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[C]FpsReducer2-neoforge-1.21-2.10.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]FpsReducer2-neoforge-1.21-2.10.jar",
+      "fileHash": "f3afa8a76ae8f320610d6e50970881722a758c1c23ded4831293d1c81adbce21",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[C]fusion-1.2.8-neoforge-mc1.21.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]fusion-1.2.8-neoforge-mc1.21.jar",
       "fileHash": "725d47394851b7a54e63929e5b9152e04ef76e78edaa78d8283781216519a2f5",
@@ -211,9 +172,18 @@
       "isAdminMod": false
     },
     {
-      "fileName": "[C]gamesservermod-0.1.7.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]gamesservermod-0.1.7.jar",
-      "fileHash": "6814f7598cf9e1b58825911701984817dd416dcea6f69a723add961383489b95",
+      "fileName": "[C]gamesservermod-0.1.10.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]gamesservermod-0.1.10.jar",
+      "fileHash": "c8d2c0f564728742610afac6ee15e875a54a0400ddf1092021202d68340ce9bf",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[C]ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]ImmediatelyFast-NeoForge-1.6.6+1.21.1.jar",
+      "fileHash": "1266c606b5ab0135040b9fd8495a2c7398e4dcbf63c40d7836bde5768ceb2544",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -322,26 +292,9 @@
       "fileName": "[F][C]continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][C]continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1.jar",
       "fileHash": "281b58410378685a3cd8f231792297c0b0b0cd3dcde16f10f04666ef1e7e06db",
+      "parentFileName": "[F][C]continuity-3.0.0+1.21.neoforge.jar",
       "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[F][S][C]BOMD-1.10.2-1.21.1$MultipartEntities-1.21-SNAPSHOT_mapped_moj_1.21.1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]BOMD-1.10.2-1.21.1$MultipartEntities-1.21-SNAPSHOT_mapped_moj_1.21.1.jar",
-      "fileHash": "9746d5ccc4d6adbffc04a662461b948306af473103b422491a02a8848014efd8",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[F][S][C]BOMD-1.10.2-1.21.1_mapped_moj_1.21.1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]BOMD-1.10.2-1.21.1_mapped_moj_1.21.1.jar",
-      "fileHash": "58dcac9c891ef041979ceebf71820f8948d152b6581ff15e4b0c46305cb38f67",
-      "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -349,8 +302,29 @@
       "fileName": "[F][S][C]bclib-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]bclib-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "0860ef8255dca6b0376aa1dcbbb1804c436aec4c7f5b618b9c9a844574f6720b",
+      "parentFileName": "[F][S][C]bclib-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[F][S][C]BOMD-1.10.2-1.21.1$MultipartEntities-1.21-SNAPSHOT_mapped_moj_1.21.1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]BOMD-1.10.2-1.21.1$MultipartEntities-1.21-SNAPSHOT_mapped_moj_1.21.1.jar",
+      "fileHash": "9746d5ccc4d6adbffc04a662461b948306af473103b422491a02a8848014efd8",
+      "parentFileName": "[F][S][C]BOMD-1.10.2-1.21.1.jar",
+      "isChildMod": false,
+      "isFabricMod": true,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[F][S][C]BOMD-1.10.2-1.21.1_mapped_moj_1.21.1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]BOMD-1.10.2-1.21.1_mapped_moj_1.21.1.jar",
+      "fileHash": "58dcac9c891ef041979ceebf71820f8948d152b6581ff15e4b0c46305cb38f67",
+      "parentFileName": "[F][S][C]BOMD-1.10.2-1.21.1.jar",
+      "isChildMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -358,8 +332,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2$cardinal-components-base-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2$cardinal-components-base-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "ea4a72c712929e961376f35c8922384497784393c7a96770a6b964c455a0b07d",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -367,8 +342,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2$cardinal-components-block-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2$cardinal-components-block-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "e5d74087f3e50014f9ad7067603953f806b1ea26352467279309f94d7e4dc89f",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -376,8 +352,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2$cardinal-components-chunk-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2$cardinal-components-chunk-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "e0e988bb75346fece3181bcff1aeecf77822043ad5e83836488f628118816e61",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -385,8 +362,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2$cardinal-components-entity-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2$cardinal-components-entity-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "8f3e4804ee2c3eb1e29ff2f3bf73ddc7be2005b1b7995e47a6dfe87bb50b9491",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -394,8 +372,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2$cardinal-components-item-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2$cardinal-components-item-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "d655a1c078d11bbb24d6a40c5275a3b0393eba9d4952dfb616d52904289f24f2",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -403,8 +382,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2$cardinal-components-level-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2$cardinal-components-level-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "09ac950ca83c647d412ce7f3ac247dfb7372de3f373fc5c19f3aa175b511aa75",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -412,8 +392,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2$cardinal-components-scoreboard-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2$cardinal-components-scoreboard-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "3f2ff86abf9b357176ca4f8aade12eb9d3d206ab0a5387b5c033580358170576",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -421,8 +402,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2$cardinal-components-world-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2$cardinal-components-world-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "2ad69d66724b1f981e75d1769fdbad4a3c095a26eb21df26c0d7187958e7ae25",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -430,8 +412,9 @@
       "fileName": "[F][S][C]cardinal-components-api-6.1.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]cardinal-components-api-6.1.2_mapped_moj_1.21.1.jar",
       "fileHash": "6140575a22819c06773538fe0715dace3dd85a224043d14ece997b6a3cfc1a8c",
+      "parentFileName": "[F][S][C]cardinal-components-api-6.1.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -439,8 +422,9 @@
       "fileName": "[F][S][C]countereds_terrain_slabs-2.0.2_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]countereds_terrain_slabs-2.0.2_mapped_moj_1.21.1.jar",
       "fileHash": "6e3bd00ec82ac8bad24d5a35a7e308efa17f66e82d63150d060e536c89e07739",
+      "parentFileName": "[F][S][C]countereds_terrain_slabs-2.0.2.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -448,8 +432,9 @@
       "fileName": "[F][S][C]fabric-language-kotlin-1.13.4+kotlin.2.2.0_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]fabric-language-kotlin-1.13.4+kotlin.2.2.0_mapped_moj_1.21.1.jar",
       "fileHash": "28b0c000ddaff22b5e62768784c40ea00b34fb1dfb3896f10805f5bc3e6be266",
+      "parentFileName": "[F][S][C]fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -457,8 +442,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-biome-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-biome-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "71284ed2bf2523630836a3497a8f9ea3ecee913a882261d0b24fe5f80ab15804",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -466,8 +452,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-block-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-block-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "be26b085f256c1db4da03634f54e186f949fa8806e40eb1fd752321548c92b11",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -475,8 +462,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-common-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-common-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "567206812f9f1c41695a8487c8ebfaa3ea48691eb794b2feaa038dea4ceb4544",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -484,8 +472,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-core-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-core-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "9e401590095d6f8ee9de9ebb27fbbf925ea3a061bc039ec82d1e6ee5a13f1ff0",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -493,8 +482,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-datagen-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-datagen-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "b2174683e99eb3029f0f0c65eb736545811d47e4eb79b0b855540bb532cf9fb8",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -502,8 +492,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-event-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-event-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "6eaeab1bf62203eb41235257c60450dcc20825f7babd59ae9d626bc15277cdb8",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -511,8 +502,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-feature-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-feature-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "ddf434e862a01401a81b35e9776187ee41002941c7c2075b81db6c357d48ca3f",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -520,8 +512,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-generator-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-generator-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "d4292bf9b8130dd3006b2addf117eb323ca61fbc9285ff23dd095b27f5cdcb33",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -529,8 +522,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-item-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-item-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "883f029626daaa34f084e637f55b849e50d8c9cd81c692be1489614ea607e0f2",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -538,8 +532,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-math-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-math-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "23d494e4603996c229721d063e4987a9ca6f129f996280e172b38db3491132a6",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -547,8 +542,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-preset-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-preset-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "653fd81f5797d21876a29d39b2b71d25275a1a74711d4b94df1731d185087e2c",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -556,8 +552,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-recipe-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-recipe-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "74fd9145a6990eaba28bf8c1162fdcf18b0ae7a21e1f9b54bc4c3d83d99efc5c",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -565,8 +562,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-structure-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-structure-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "4ae0b03923d89c990d5858cdf011365f42e4256f099fc3b4311db852eeb79d3f",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -574,8 +572,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-surface-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-surface-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "27d61cbf4b161ad3a188c49099488adebfe26f2a6e39f2b50bbd6f7f070279bf",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -583,8 +582,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-tag-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-tag-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "92dcaeae00d467226903bb6d2b85973115909bbe84e05eed3db6807c724247fe",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -592,8 +592,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13$wover-ui-api-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13$wover-ui-api-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "5cf4c711c47742fe8f5062c9b89fa15374b5d34e3558d012d1c9051a6ed655a1",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -601,8 +602,9 @@
       "fileName": "[F][S][C]worldweaver-21.0.13_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]worldweaver-21.0.13_mapped_moj_1.21.1.jar",
       "fileHash": "2c6a26fc64498c4b5fd5f6e732e4816e18802ec0a184b0c8ee6877346af37127",
+      "parentFileName": "[F][S][C]worldweaver-21.0.13.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -610,8 +612,9 @@
       "fileName": "[F][S][C]wunderlib-21.0.8_mapped_moj_1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\.connector\\[F][S][C]wunderlib-21.0.8_mapped_moj_1.21.1.jar",
       "fileHash": "dda3b691912600a8e329866515cad0daa49f5f7b624401539b06bd010f3af3a3",
+      "parentFileName": "[F][S][C]wunderlib-21.0.8.jar",
       "isChildMod": false,
-      "isFabricMod": false,
+      "isFabricMod": true,
       "isOptionalMod": false,
       "isAdminMod": false
     },
@@ -628,285 +631,6 @@
       "fileName": "[O][C]iris-neoforge-1.8.12+mc1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[O][C]iris-neoforge-1.8.12+mc1.21.1.jar",
       "fileHash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Apotheosis-1.21.1-8.3.6.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Apotheosis-1.21.1-8.3.6.jar",
-      "fileHash": "6a96720e778e6eb35f324958b42183d8985acae322fafe23ee627271b11d219e",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]ApothicAttributes-1.21.1-2.9.0.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ApothicAttributes-1.21.1-2.9.0.jar",
-      "fileHash": "132a0d85d138655e0b737085d750968e8787ad5d32c9f554e59b14570973f354",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]ApothicEnchanting-1.21.1-1.4.4.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ApothicEnchanting-1.21.1-1.4.4.jar",
-      "fileHash": "d2c5dac59f6598d83daf237229f9909cca3d7d10ba7969bdfcfe1a43c7b18140",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]ApothicSpawners-1.21.1-1.3.2.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ApothicSpawners-1.21.1-1.3.2.jar",
-      "fileHash": "8b7d77c260fa65cdcc2f430cddacdbd64cf93de8785f203b1b5346cb205324b3",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Aquaculture-1.21.1-2.7.14.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Aquaculture-1.21.1-2.7.14.jar",
-      "fileHash": "c468c1a30f6a7a647b3db6d8915c5e246d9bc2460e735d62522f0476c14317dd",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]ConnectorExtras-1.12.1+1.21.1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ConnectorExtras-1.12.1+1.21.1.jar",
-      "fileHash": "ee89c3425b9a4bff766aaff02ccf8110c06f5da6ef5d71974556885cf25d4880",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]CraftTweaker-neoforge-1.21.1-21.0.27.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]CraftTweaker-neoforge-1.21.1-21.0.27.jar",
-      "fileHash": "f24f5e2cb682c309fd0922afd6998e26f9b52e24e3e28fc9fdd22c7cf05e45ca",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Create Encased-1.21.1-1.7.2-fix1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Create Encased-1.21.1-1.7.2-fix1.jar",
-      "fileHash": "221e10e88391da5e942650ca5f72266871d20f360e51fd3778193e5b81fd44e5",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Design-n-Decor-1.21.1-2.0.2.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Design-n-Decor-1.21.1-2.0.2.jar",
-      "fileHash": "ba9420af93581165f6f55f352e00d4d7bd7ff7639d6059d937179284c0782051",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]DnDesires-1.21.1-2.2a-BETA.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]DnDesires-1.21.1-2.2a-BETA.jar",
-      "fileHash": "747d294aa9c0ffc39133ac390df6f47746cebe9bf8513b7a8a355b7b088fbc1c",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Dynamic Trees for Nature\u0027s Spirit-1.21.1-neoforge-1.3.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Dynamic Trees for Nature\u0027s Spirit-1.21.1-neoforge-1.3.jar",
-      "fileHash": "565b8cd4bb82afa23ce823e49665188621bbdd53139ed854f4772ca18b01d7e8",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]EW-NeoForge-1.21.1-1.0.0.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]EW-NeoForge-1.21.1-1.0.0.jar",
-      "fileHash": "fca02c0a53f761867c8ec4f9d45f2eaf535c795017e8249ed5ed4e915cc12d62",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]FarmersDelight-1.21.1-1.2.8.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]FarmersDelight-1.21.1-1.2.8.jar",
-      "fileHash": "801d2ed14e0364b575573dcbff88004e043a002b1717e6207717c2b1036879d1",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]FastFurnace-1.21.1-9.0.1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]FastFurnace-1.21.1-9.0.1.jar",
-      "fileHash": "4a8743c5d870aa9885d65e20d728c76fec894e01e81d1b49ef0f4459a67f0eea",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]FastItemFrames-v21.1.4-1.21.1-NeoForge.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]FastItemFrames-v21.1.4-1.21.1-NeoForge.jar",
-      "fileHash": "2b555873821cae7cc3b31cc2ac7ed08e19a96fbe333d710b71cef01a8a5fcd69",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]FastWorkbench-1.21.1-9.1.3.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]FastWorkbench-1.21.1-9.1.3.jar",
-      "fileHash": "abf593ba1584c761f198989008d334c95932afe0a7c6b16af4baa16b54fd1449",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
-      "fileHash": "a010b32a31f59110cc0addcbe789ce42e76131bb131ede73b0e078e736fd3c68",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]L_Ender\u0027s Cataclysm 1.21.1-3.09.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]L_Ender\u0027s Cataclysm 1.21.1-3.09.jar",
-      "fileHash": "8b40a3c02ccfdf525d098fc4999b87326da39eed5f7e7f8c6fcb088082ca6f8b",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]MendedMending-neoforge-1.21.1-1.0.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]MendedMending-neoforge-1.21.1-1.0.jar",
-      "fileHash": "ce976271f334989d39b81b4c366209b62d18248a9664a65664c9645166347ca1",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]MyNethersDelight-1.21.1-1.8.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]MyNethersDelight-1.21.1-1.8.jar",
-      "fileHash": "cd89ed7f6ed7db6c1789868a173719106495c5ccc7e15617632201847859bed2",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Necronomicon-NeoForge-1.6.0+1.21.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Necronomicon-NeoForge-1.6.0+1.21.jar",
-      "fileHash": "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
-      "fileHash": "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Nullscape_1.21.x_v1.2.12.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Nullscape_1.21.x_v1.2.12.jar",
-      "fileHash": "4daa5d59d67bf41d761e83d7669e93be7e5b0c5c5f799d1e2370b59f76d220fa",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]OctoLib-NEOFORGE-0.5.0.1.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]OctoLib-NEOFORGE-0.5.0.1.jar",
-      "fileHash": "811aa793b346e9ddc01c91ce992e353f34b9054b0295d8c818a6ba23a19ba312",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Patchouli-1.21-88-NEOFORGE.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Patchouli-1.21-88-NEOFORGE.jar",
-      "fileHash": "f1ff6a72a12588102a49ed6cb11b22674925ce317cfaac879291a9ccf6bc9cdb",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Placebo-1.21.1-9.9.0.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Placebo-1.21.1-9.9.0.jar",
-      "fileHash": "8fe2610cc5ac26dc48c0eba906c5b4dc9ef930964e29a78391227110ca2d12e1",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar",
-      "fileHash": "7be6db8633d27a928ab986fab52d4bb882e6b50d3087392fb6e1403d2d62edca",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]SOB-NeoForge-1.21.1-1.0.0.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]SOB-NeoForge-1.21.1-1.0.0.jar",
-      "fileHash": "1661023822d0e1651480e0b26bbb037a3013e5d2d3134b4d0f88141a32a72e30",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]SmartBrainLib-neoforge-1.21.1-1.16.10.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]SmartBrainLib-neoforge-1.21.1-1.16.10.jar",
-      "fileHash": "67ecec32de608e59ff142b1b217d3d710cd9b3cebb5b986111f7dd4098025a4e",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "fileHash": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
-      "fileName": "[S][C]Terralith_1.21.x_v2.5.8.jar",
-      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Terralith_1.21.x_v2.5.8.jar",
-      "fileHash": "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -988,6 +712,51 @@
       "fileName": "[S][C]amendments-1.21-1.2.24-neoforge.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]amendments-1.21-1.2.24-neoforge.jar",
       "fileHash": "9baa403224a3b58b63f14020242eb73ef1bebc07402b37dd0f071de95a8a4db7",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]Apotheosis-1.21.1-8.3.6.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Apotheosis-1.21.1-8.3.6.jar",
+      "fileHash": "6a96720e778e6eb35f324958b42183d8985acae322fafe23ee627271b11d219e",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]ApothicAttributes-1.21.1-2.9.0.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ApothicAttributes-1.21.1-2.9.0.jar",
+      "fileHash": "132a0d85d138655e0b737085d750968e8787ad5d32c9f554e59b14570973f354",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]ApothicEnchanting-1.21.1-1.4.4.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ApothicEnchanting-1.21.1-1.4.4.jar",
+      "fileHash": "d2c5dac59f6598d83daf237229f9909cca3d7d10ba7969bdfcfe1a43c7b18140",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]ApothicSpawners-1.21.1-1.3.2.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ApothicSpawners-1.21.1-1.3.2.jar",
+      "fileHash": "8b7d77c260fa65cdcc2f430cddacdbd64cf93de8785f203b1b5346cb205324b3",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]Aquaculture-1.21.1-2.7.14.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Aquaculture-1.21.1-2.7.14.jar",
+      "fileHash": "c468c1a30f6a7a647b3db6d8915c5e246d9bc2460e735d62522f0476c14317dd",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -1111,9 +880,36 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]ConnectorExtras-1.12.1+1.21.1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ConnectorExtras-1.12.1+1.21.1.jar",
+      "fileHash": "ee89c3425b9a4bff766aaff02ccf8110c06f5da6ef5d71974556885cf25d4880",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]copycats-3.0.2+mc.1.21.1-neoforge.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]copycats-3.0.2+mc.1.21.1-neoforge.jar",
       "fileHash": "8caf0e53cf250e1cc2811d49e9ea46f3c691f65c3522b55c19e24a411d1354ef",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]CraftTweaker-neoforge-1.21.1-21.0.27.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]CraftTweaker-neoforge-1.21.1-21.0.27.jar",
+      "fileHash": "f24f5e2cb682c309fd0922afd6998e26f9b52e24e3e28fc9fdd22c7cf05e45ca",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]Create Encased-1.21.1-1.7.2-fix1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Create Encased-1.21.1-1.7.2-fix1.jar",
+      "fileHash": "221e10e88391da5e942650ca5f72266871d20f360e51fd3778193e5b81fd44e5",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -1291,6 +1087,33 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]Design-n-Decor-1.21.1-2.0.2.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Design-n-Decor-1.21.1-2.0.2.jar",
+      "fileHash": "ba9420af93581165f6f55f352e00d4d7bd7ff7639d6059d937179284c0782051",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]DnDesires-1.21.1-2.2a-BETA.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]DnDesires-1.21.1-2.2a-BETA.jar",
+      "fileHash": "747d294aa9c0ffc39133ac390df6f47746cebe9bf8513b7a8a355b7b088fbc1c",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]Dynamic Trees for Nature\u0027s Spirit-1.21.1-neoforge-1.3.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Dynamic Trees for Nature\u0027s Spirit-1.21.1-neoforge-1.3.jar",
+      "fileHash": "565b8cd4bb82afa23ce823e49665188621bbdd53139ed854f4772ca18b01d7e8",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]dynamictrees-neoforge-1.21.1-1.5.0-BETA07.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]dynamictrees-neoforge-1.21.1-1.5.0-BETA07.jar",
       "fileHash": "1798522d3e86bc7ddc31cf7416adce73053dea4fbb0208e591bf35b98634a6d9",
@@ -1312,6 +1135,51 @@
       "fileName": "[S][C]endersdelight-neoforge-1.21.1-1.1.0.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]endersdelight-neoforge-1.21.1-1.1.0.jar",
       "fileHash": "0a4167429acf3740e48a699f186bdcad808c0081a8157b466fffa10716d1b50c",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]EW-NeoForge-1.21.1-1.0.0.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]EW-NeoForge-1.21.1-1.0.0.jar",
+      "fileHash": "fca02c0a53f761867c8ec4f9d45f2eaf535c795017e8249ed5ed4e915cc12d62",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]FarmersDelight-1.21.1-1.2.8.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]FarmersDelight-1.21.1-1.2.8.jar",
+      "fileHash": "801d2ed14e0364b575573dcbff88004e043a002b1717e6207717c2b1036879d1",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]FastFurnace-1.21.1-9.0.1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]FastFurnace-1.21.1-9.0.1.jar",
+      "fileHash": "4a8743c5d870aa9885d65e20d728c76fec894e01e81d1b49ef0f4459a67f0eea",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]FastItemFrames-v21.1.4-1.21.1-NeoForge.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]FastItemFrames-v21.1.4-1.21.1-NeoForge.jar",
+      "fileHash": "2b555873821cae7cc3b31cc2ac7ed08e19a96fbe333d710b71cef01a8a5fcd69",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]FastWorkbench-1.21.1-9.1.3.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]FastWorkbench-1.21.1-9.1.3.jar",
+      "fileHash": "abf593ba1584c761f198989008d334c95932afe0a7c6b16af4baa16b54fd1449",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -1426,6 +1294,24 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+      "fileHash": "a010b32a31f59110cc0addcbe789ce42e76131bb131ede73b0e078e736fd3c68",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]L_Ender\u0027s Cataclysm 1.21.1-3.09.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]L_Ender\u0027s Cataclysm 1.21.1-3.09.jar",
+      "fileHash": "8b40a3c02ccfdf525d098fc4999b87326da39eed5f7e7f8c6fcb088082ca6f8b",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]lionfishapi-2.6.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]lionfishapi-2.6.jar",
       "fileHash": "7e56b7f00e8351bba0a513dd9bcf59d82a0ccde82f1f0fe4ce378ccaad10025f",
@@ -1534,6 +1420,15 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]MendedMending-neoforge-1.21.1-1.0.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]MendedMending-neoforge-1.21.1-1.0.jar",
+      "fileHash": "ce976271f334989d39b81b4c366209b62d18248a9664a65664c9645166347ca1",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]modernfix-neoforge-5.24.3+mc1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]modernfix-neoforge-5.24.3+mc1.21.1.jar",
       "fileHash": "0f1f987cdb9f1896217d45d91a9eaa20ee4c0054c41602624b54d81513a8cc22",
@@ -1561,6 +1456,15 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]MyNethersDelight-1.21.1-1.8.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]MyNethersDelight-1.21.1-1.8.jar",
+      "fileHash": "cd89ed7f6ed7db6c1789868a173719106495c5ccc7e15617632201847859bed2",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]natures_spirit-2.2.4-1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]natures_spirit-2.2.4-1.21.1.jar",
       "fileHash": "8a1dc1f85047388101203a2f99714ccd5a74c6be083ffce730c063dd6513cf1c",
@@ -1570,9 +1474,36 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "fileHash": "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]nether_remastered-2.4.1-neoforge-1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]nether_remastered-2.4.1-neoforge-1.21.1.jar",
       "fileHash": "6e98732dd91120abea5a896b551a0d5ae577cd769472dc3017f37c89312f6e5e",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "fileHash": "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]Nullscape_1.21.x_v1.2.12.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Nullscape_1.21.x_v1.2.12.jar",
+      "fileHash": "4daa5d59d67bf41d761e83d7669e93be7e5b0c5c5f799d1e2370b59f76d220fa",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -1597,6 +1528,15 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]OctoLib-NEOFORGE-0.5.0.1.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]OctoLib-NEOFORGE-0.5.0.1.jar",
+      "fileHash": "811aa793b346e9ddc01c91ce992e353f34b9054b0295d8c818a6ba23a19ba312",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
       "fileHash": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
@@ -1615,6 +1555,24 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]Patchouli-1.21-88-NEOFORGE.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Patchouli-1.21-88-NEOFORGE.jar",
+      "fileHash": "f1ff6a72a12588102a49ed6cb11b22674925ce317cfaac879291a9ccf6bc9cdb",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]Placebo-1.21.1-9.9.0.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Placebo-1.21.1-9.9.0.jar",
+      "fileHash": "8fe2610cc5ac26dc48c0eba906c5b4dc9ef930964e29a78391227110ca2d12e1",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]plane-neoforge-1.21.1-1.5.5.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]plane-neoforge-1.21.1-1.5.5.jar",
       "fileHash": "6a18e71022eebd6410f735449854ab6fb4ffd45f8f5258ea9dfdf86d84d2ce97",
@@ -1627,6 +1585,15 @@
       "fileName": "[S][C]polymorph-neoforge-1.1.0+1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]polymorph-neoforge-1.1.0+1.21.1.jar",
       "fileHash": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar",
+      "fileHash": "7be6db8633d27a928ab986fab52d4bb882e6b50d3087392fb6e1403d2d62edca",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -1723,6 +1690,24 @@
       "isAdminMod": false
     },
     {
+      "fileName": "[S][C]SmartBrainLib-neoforge-1.21.1-1.16.10.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]SmartBrainLib-neoforge-1.21.1-1.16.10.jar",
+      "fileHash": "67ecec32de608e59ff142b1b217d3d710cd9b3cebb5b986111f7dd4098025a4e",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]SOB-NeoForge-1.21.1-1.0.0.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]SOB-NeoForge-1.21.1-1.0.0.jar",
+      "fileHash": "1661023822d0e1651480e0b26bbb037a3013e5d2d3134b4d0f88141a32a72e30",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "[S][C]sophisticatedbackpacks-1.21.1-3.24.18.1284.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]sophisticatedbackpacks-1.21.1-3.24.18.1284.jar",
       "fileHash": "89961de51eb443d98d3879e5f740e3855f73aaae238b9bb9e9f20c61cfe2abac",
@@ -1780,6 +1765,24 @@
       "fileName": "[S][C]tenshilib-1.21.1-2.1.0-neoforge.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]tenshilib-1.21.1-2.1.0-neoforge.jar",
       "fileHash": "9d5d6cbc3275b99b80139a701a43721ebcaf0ba8d1fd462f1219a8a3ff9108f1",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "fileHash": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
+      "isChildMod": false,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "[S][C]Terralith_1.21.x_v2.5.8.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]Terralith_1.21.x_v2.5.8.jar",
+      "fileHash": "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf",
       "isChildMod": false,
       "isFabricMod": false,
       "isOptionalMod": false,
@@ -2607,6 +2610,16 @@
       "isAdminMod": false
     },
     {
+      "fileName": "Ponder-NeoForge-1.21.1-1.0.56.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]create-1.21.1-6.0.6.jar!Ponder-NeoForge-1.21.1-1.0.56.jar",
+      "fileHash": "f042aa429cbb8e8dfe206792aea4c184264eebd4ba412aa3849d20dc37b87496",
+      "parentFileName": "[S][C]create-1.21.1-6.0.6.jar",
+      "isChildMod": true,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
       "fileName": "rei-bridge-1.12.1+1.21.1.jar",
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]ConnectorExtras-1.12.1+1.21.1.jar!rei-bridge-1.12.1+1.21.1.jar",
       "fileHash": "d1f85cd3571e9e6c8cff0df2d3ff5243ae64b8ffd4fe5fef17589979d175a9d4",
@@ -2631,6 +2644,26 @@
       "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[S][C]kotlinforforge-5.9.0-all.jar!thedarkcolour.kffmod-5.9.0.jar",
       "fileHash": "8eac9a1a17ce8bcffecdd204d93f175f09f44df02f3db2a08dea50e42f811fb7",
       "parentFileName": "[S][C]kotlinforforge-5.9.0-all.jar",
+      "isChildMod": true,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "TRansition-1.0.3-1.21-neoforge-SNAPSHOT.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]entityculling-neoforge-1.8.2-mc1.21.jar!TRansition-1.0.3-1.21-neoforge-SNAPSHOT.jar",
+      "fileHash": "811fb08751805773c12479d69b28ba5255448e8bb53155af0ea65986e6c4aed8",
+      "parentFileName": "[C]entityculling-neoforge-1.8.2-mc1.21.jar",
+      "isChildMod": true,
+      "isFabricMod": false,
+      "isOptionalMod": false,
+      "isAdminMod": false
+    },
+    {
+      "fileName": "TRender-1.0.5-1.21-neoforge-SNAPSHOT.jar",
+      "filePath": "C:\\Users\\lukas\\curseforge\\minecraft\\Instances\\GamesServer - TestServer1\\mods\\[C]entityculling-neoforge-1.8.2-mc1.21.jar!TRender-1.0.5-1.21-neoforge-SNAPSHOT.jar",
+      "fileHash": "d3ed7bb43cdd9e5b0fc6a6486eceae6ac1a4a3c581cd22a612ebdb2b064b6771",
+      "parentFileName": "[C]entityculling-neoforge-1.8.2-mc1.21.jar",
       "isChildMod": true,
       "isFabricMod": false,
       "isOptionalMod": false,
