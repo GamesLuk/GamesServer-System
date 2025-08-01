@@ -210,14 +210,6 @@
       "isAdminMod": false
     },
     {
-      "fileName": "main",
-      "filePath": "C:\\Users\\lukas\\Documents\\Programming_Programs\\GamesServer\\GamesServer-Mod\\build\\classes\\java\\main",
-      "isChildMod": false,
-      "isFabricMod": false,
-      "isOptionalMod": false,
-      "isAdminMod": false
-    },
-    {
       "fileName": "neoforge-21.1.194.jar",
       "filePath": "C:\\Users\\lukas\\Documents\\Programming_Programs\\GamesServer\\GamesServer-Mod\\build\\moddev\\artifacts\\neoforge-21.1.194.jar",
       "fileHash": "abf807535471555dc730f461cf976d049b78ac4621f07d48776363c97ec7f33e",
